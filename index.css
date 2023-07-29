@@ -1,0 +1,115 @@
+
+.second-box {
+    display: flex;
+    flex: 1;
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
+img {
+    width: 400px;
+    height: 300px;
+}
+.second.one {
+    flex: 2;
+    text-align: center;
+}
+.first-box {
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+    align-items: center;
+    margin-top: 0px;
+    font-size: 25px;
+    color: black;
+}
+ul {
+    list-style: none;
+    display: flex;
+    gap: 10px;
+    color: black;
+}
+a {
+    text-decoration: none;
+}
+.Header {
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', 'Times New Roman', Times, serif;
+    margin-left: 50px;
+}
+.first-box,
+.second-box {
+    background-color: rgb(166, 166, 255);
+}
+.third-box {
+    text-align: center;
+    height: 600px;
+    margin-top: 30px;
+}
+.some {
+    font-size: 60px;
+}
+.level {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+.Aone,
+.Atwo,
+.Bone,
+.Btwo {
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 100px 20px;
+    font-size: 150px;
+    background-color: orange;
+}
+.textA,
+.texta,
+.textB,
+.textb {
+    font-size: 30px;
+
+}
+.fourth-box {
+    border: 2px solid black;
+    height: 600px;
+    justify-content: center;
+    align-items: center;  
+}
+.Quote {
+    
+    text-align: center; 
+    font-size: 30px;
+    border: 2px solid black;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+    padding: 70px 70px;
+}
+.quote {
+
+    flex: 1;
+}
+.fifth-box {
+    display: flex;
+    border: 2px solid black;
+    height: 100px;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: rgb(166, 166, 255);
+}
+button {
+    border-radius: 13px;
+    padding: 10px;
+    color: white;
+    background-color: black;
+}
+.sixth-box {
+    height: 50px;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
